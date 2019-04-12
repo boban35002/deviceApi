@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./app",
+    "allowJs": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es6"
+  },
+  "include": ["./tsc/**/*"]
+}
